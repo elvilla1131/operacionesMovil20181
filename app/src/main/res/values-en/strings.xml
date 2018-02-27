@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">operacionesMoviles20181</string>
+    <string name="titulo">OPERATIONS</string>
+    <string name="numero_uno">Number One</string>
+    <string name="numero_dos">Number two</string>
+    <string name="sumar">Add</string>
+</resources>
