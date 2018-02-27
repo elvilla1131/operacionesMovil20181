@@ -5,4 +5,7 @@
     <string name="numero_uno">Number One</string>
     <string name="numero_dos">Number two</string>
     <string name="sumar">Add</string>
+    <string name="limpiar">Clear</string>
+    <string name="error_numero_uno">Type number one</string>
+    <string name="error_numero_dos">Type number two</string>
 </resources>
