@@ -7,4 +7,16 @@
     <string name="limpiar">Limpiar</string>
     <string name="error_numero_uno">Digite el número uno</string>
     <string name="error_numero_dos">Digite el número dos</string>
+    <string name="error_numero_tres">No puede dividir entre cero</string>
+    <string name="operacion">Operación</string>
+    <string name="restar">Restar</string>
+    <string name="multiplicar">Multiplicar</string>
+    <string name="dividir">Dividir</string>
+    <string-array name="operaciones">
+        <item>@string/sumar</item>
+        <item>@string/restar</item>
+        <item>@string/multiplicar</item>
+        <item>@string/dividir</item>
+
+    </string-array>
 </resources>
